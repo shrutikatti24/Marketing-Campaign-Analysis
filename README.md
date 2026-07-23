@@ -33,7 +33,7 @@ This dashboard addresses these challenges by consolidating campaign data into a 
 
 ## Campaign Analysis
 
-![Campaign Analysis](Images/Campaignanalysis.png)
+![Campaign Analysis](Images/Campaign-analysis.png)
 
 ## Trend Analysis
 
