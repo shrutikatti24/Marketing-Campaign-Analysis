@@ -41,7 +41,7 @@ This dashboard addresses these challenges by consolidating campaign data into a 
 
 ## Data Model
 
-![Data Model](Images/datamodel.png)
+![Data Model](Images/data-model.png)
 
 ## Tools & Technologies
 
