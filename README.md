@@ -21,6 +21,28 @@ This dashboard addresses these challenges by consolidating campaign data into a 
 - Identify top-performing geographical regions.
 - Enable data-driven marketing decisions through interactive visualizations.
 
+# 📷 Dashboard Preview
+
+## Executive Dashboard
+
+![Executive Dashboard](Images/dashboard.png)
+
+## KPI
+
+![KPI](Images/KPI.jpeg)
+
+## Campaign Analysis
+
+![Campaign Analysis](Images/Campaign analysis.png)
+
+## Trend Analysis
+
+![Trend Analysis](Images/Trend.jpeg)
+
+## Data Model
+
+![Data Model](Images/data model.png)
+
 ## Tools & Technologies
 
 - Microsoft Power BI
